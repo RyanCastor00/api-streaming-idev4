@@ -1,0 +1,26 @@
+{
+  "name": "api-streaming-idev4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/RyanCastor00/api-streaming-idev4#readme",
+  "bugs": {
+    "url": "https://github.com/RyanCastor00/api-streaming-idev4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanCastor00/api-streaming-idev4.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.6.2",
+    "nodemon": "^3.1.14"
+  }
+}
